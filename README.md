@@ -41,3 +41,5 @@ Versão usada foi o Gemini 1.0 pro.
 # Print do código #
 ![código_detalhe](https://github.com/AllyneCoelho/Projeto_Unidos_contra_o_Bullying/blob/main/code.png)
 
+# Interação com o usuário #
+![interação_usuario](https://github.com/AllyneCoelho/Projeto_Unidos_contra_o_Bullying/blob/main/intera%C3%A7%C3%A3o.PNG)
