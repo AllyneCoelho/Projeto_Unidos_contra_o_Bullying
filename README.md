@@ -42,4 +42,12 @@ Versão usada foi o Gemini 1.0 pro.
 ![código_detalhe](https://github.com/AllyneCoelho/Projeto_Unidos_contra_o_Bullying/blob/main/code.png)
 
 # Interação com o usuário #
+##### Adolescente #####
 ![interação_usuario](https://github.com/AllyneCoelho/Projeto_Unidos_contra_o_Bullying/blob/main/intera%C3%A7%C3%A3o.PNG)
+
+##### Criança #####
+![interação_usuario2](https://github.com/AllyneCoelho/Projeto_Unidos_contra_o_Bullying/blob/main/intera%C3%A7%C3%A3o2.PNG)
+
+##### Adulto #####
+![interação_usuario3](https://github.com/AllyneCoelho/Projeto_Unidos_contra_o_Bullying/blob/main/intera%C3%A7%C3%A3o3.PNG)
+
